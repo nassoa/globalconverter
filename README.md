@@ -10,7 +10,6 @@ _Version 0.1.0_
 - [Fonctionnalités](#fonctionnalités)
 - [Technologies](#technologies)
 <!-- - [Contribuer](#contribuer) -->
-- [Licence](#licence)
 
 ## Fonctionnalités
 
@@ -57,7 +56,3 @@ Les contributions sont les bienvenues !
 3. Commitez vos changements (`git commit -m "feat: ma feature"`)
 4. Pushez la branche (`git push origin feature/ma-feature`)
 5. Ouvrez une Pull Request -->
-
-## Licence
-
-Sous licence MIT — voir le fichier [LICENSE](LICENSE) pour plus de détails.
